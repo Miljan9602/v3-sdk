@@ -26,7 +26,7 @@
   "dependencies": {
     "@ethersproject/abi": "^5.0.12",
     "@ethersproject/solidity": "^5.0.9",
-    "@miljan9602/sdk-core" : "^7.0.2",
+    "@miljan9602/sdk-core" : "github:Miljan9602/sdk-core#staging",
     "@uniswap/swap-router-contracts": "^1.2.1",
     "@uniswap/v3-periphery": "^1.1.1",
     "@uniswap/v3-staker": "1.0.0",
